@@ -1,0 +1,2 @@
+"group_a","group_b","n_email","n_social","conv_email","conv_social","conv_rate_email","conv_rate_social","pooled_p","se","z_score","p_value_range","conclusion"
+"Email","Social","333549","333913","6462","6463","1.9373","1.9355","0.019364","0.000337","-0.0537",">= 0.10（不显著）","接受 H0，两组转化率无显著差异"

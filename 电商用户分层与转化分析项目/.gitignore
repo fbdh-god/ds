@@ -1,0 +1,11 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# 原始数据（体积大，不上传）
+data/*.csv
