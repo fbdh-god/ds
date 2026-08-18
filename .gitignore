@@ -1,0 +1,14 @@
+# 原始数据（体积过大，不入库）
+2019-Oct.csv
+2019-Nov.csv
+
+# 运行产物
+results/
+__pycache__/
+*.py[cod]
+
+# 一次性探索脚本（含本机绝对路径）
+scratch/
+
+# Claude Code 本地配置
+.claude/
